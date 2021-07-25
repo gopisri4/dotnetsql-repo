@@ -1,0 +1,2 @@
+C:\Users\Srinivas Gopi\Downloads\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csprojAssemblyReference.cache
+C:\Users\Srinivas Gopi\Downloads\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.CoreCompileInputs.cache
